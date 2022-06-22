@@ -32,7 +32,7 @@
 
 I am a Machine Learning Engineer <img src="https://media.giphy.com/media/YS57N6teaevJASvcMA/giphy.gif" width="30"/> from Toronto, Canada.
 
-- :telescope: I’m a Data Science fellow and building machine learning models for NLP and Computer Vision.
+- :telescope: Building machine learning models for NLP and Computer Vision.
 
 - :seedling: Exploring Technical Content Writing.
 
