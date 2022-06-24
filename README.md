@@ -80,3 +80,4 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/YS57N6t
 ## :writing_hand: Blog Posts :
 
 * [How to build a simple sentimental analysis model](https://medium.com/@kmfayora/how-to-build-a-simple-sentimental-analysis-model-using-basic-ml-algorithms-3d8b39f3193e)
+* [How to deploy your ML model with Flask](https://medium.com/@kmfayora/how-to-deploy-your-ml-model-with-flask-95467a791079)
