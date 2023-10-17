@@ -30,7 +30,7 @@
 ---
 ### :man_technologist: About Me :
 
-I am a Machine Learning Engineer from Toronto, Canada.
+I am a Data Analyst from Toronto, Canada.
 
 - :brain: Building machine learning models for NLP and Computer Vision.
 
