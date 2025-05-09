@@ -98,8 +98,6 @@ I am a Data Analyst from Toronto, Canada.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinmfreire&hide=jupyter%20notebook&layout=compact&theme=highcontrast&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kevinmfreire&theme=default)
-
 ---
 
 ## :writing_hand: Blog Posts :
